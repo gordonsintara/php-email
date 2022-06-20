@@ -37,7 +37,7 @@ if($_POST){
 }
 
 
-$recipient = "info@sintara.co.za";
+$recipient = " "; //enter your email here
 $email_body .= "</div>";
 $headers  = 'MIME-Version: 1.0' . "\r\n"
 .'Content-type: text/html; charset=utf-8' . "\r\n"
